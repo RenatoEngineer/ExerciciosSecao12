@@ -8,3 +8,15 @@
 
 [Resposta](./ExerciciosResolvidos/ex002.c)
 
+#### 3- Considerando a estrutura que representa um vetor R³:
+<p></p>
+<p><strong><em>struct Vetor{</em></strong></p>
+<p><strong><em>float x;</em></strong></p>
+<p><strong><em>float y;</em></strong></p>
+<p><strong><em>float z;</em></strong></p>
+<p><strong><em>};</em></strong></p>
+<p></p>
+<p><strong>Implemente um programa que receba, calcule e apresente a soma de dois vetores.</strong></p>
+
+[Resposta](./ExerciciosResolvidos/ex003.c)
+
